@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/data/users.js"],"names":["users","login","password"],"mappings":"gHAAA,OAAgB,cACdA,MAAO,CACLC,MAAO,QACPC,SAAU","file":"js/chunk-2d22d056.888add3c.js","sourcesContent":["export default  {\r\n  users: {\r\n    login: 'admin',\r\n    password: 'admin'\r\n  }\r\n}\r\n"],"sourceRoot":""}
